@@ -1,0 +1,10 @@
+C:\Users\Ucenik\source\repos\ProsjekOcjenaUpgrade\ProsjekOcjenaUpgrade\obj\Debug\ProsjekOcjenaUpgrade.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\ProsjekOcjenaUpgrade\ProsjekOcjenaUpgrade\obj\Debug\ProsjekOcjenaUpgrade.Form1.resources
+C:\Users\Ucenik\source\repos\ProsjekOcjenaUpgrade\ProsjekOcjenaUpgrade\obj\Debug\ProsjekOcjenaUpgrade.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\ProsjekOcjenaUpgrade\ProsjekOcjenaUpgrade\obj\Debug\ProsjekOcjenaUpgrade.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\ProsjekOcjenaUpgrade\ProsjekOcjenaUpgrade\obj\Debug\ProsjekOcjenaUpgrade.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\ProsjekOcjenaUpgrade\ProsjekOcjenaUpgrade\bin\Debug\ProsjekOcjenaUpgrade.exe.config
+C:\Users\Ucenik\source\repos\ProsjekOcjenaUpgrade\ProsjekOcjenaUpgrade\bin\Debug\ProsjekOcjenaUpgrade.exe
+C:\Users\Ucenik\source\repos\ProsjekOcjenaUpgrade\ProsjekOcjenaUpgrade\bin\Debug\ProsjekOcjenaUpgrade.pdb
+C:\Users\Ucenik\source\repos\ProsjekOcjenaUpgrade\ProsjekOcjenaUpgrade\obj\Debug\ProsjekOcjenaUpgrade.exe
+C:\Users\Ucenik\source\repos\ProsjekOcjenaUpgrade\ProsjekOcjenaUpgrade\obj\Debug\ProsjekOcjenaUpgrade.pdb
